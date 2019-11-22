@@ -1,0 +1,29 @@
+Tugas Mikroprosessor :
+1. Agis R Herdiana
+2. Muhidin Arif
+3. Okky Oktaviana
+
+Demo Dosen :
+Username : dosen@mail.com
+Password : password
+
+Demo Mahasiswa :
+Username : mahasiswa@mail.com
+Password : password
+
+Prasyarat
+Program ini memerlukan beberapa perangkat lunak pendukung untuk dijalankan, yaitu:
+
+Server Web (Xampp, Wampp, Wampstack, dll.)
+Editor Teks seperti Notepad atau dll.
+Browser Web
+Langkah Instalasi
+- Ekstrak aplikasi web ini
+- Simpan ke folder htdocs
+- Di folder yang telah di ekstrak, ada satu file sql di dalam folder bernama database. Silakan impor file sql ke server web Anda.
+
+
+Dibangun dengan
+PHP 7.3
+MySQL 5.0
+Bootstrap v3.3.2
